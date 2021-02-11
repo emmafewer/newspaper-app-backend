@@ -1,0 +1,2 @@
+class PaperArticleJoinsController < ApplicationController
+end
